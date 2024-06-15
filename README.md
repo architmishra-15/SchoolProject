@@ -17,9 +17,9 @@ You can install the `mysql-connector-python` module using pip:
 pip install mysql-connector-python
 ```
 - To know more about `mysql-connector`, check out their <a href="https://dev.mysql.com/doc/connector-python/en/" target="_blank">official documentation</a>
-- `random` <a href="https://docs.python.org/3/library/random.html" target="_blank">Documentation</a>
-- `hashlib` <a href="https://docs.python.org/3/library/hashlib.html" target="_blank">official documentation</a>
-- `getpass` <a href="https://docs.python.org/3/library/getpass.html" target="_blank">official documentation</a>
+- `random` <a href="https://docs.python.org/3/library/random.html" target="_blank">Official Documentation</a>
+- `hashlib` <a href="https://docs.python.org/3/library/hashlib.html" target="_blank">Official Documentation</a>
+- `getpass` <a href="https://docs.python.org/3/library/getpass.html" target="_blank">Official Documentation</a>
 
 ## How it works
 
